@@ -1,9 +1,0 @@
-jogo_id,data,times_que_jogaram,receita_ingresso,receita_produtos_internos,total_arrecadado,classificacao_para_competicao,ticket_medio_ingresso
-JOGO_1,19/01/2025,Cruzeiro e Tombense,550000.00,150000.00,700000.00,não,33.35
-JOGO_2,27/06/2025,Cruzeiro e Ceará,2200000.00,750000.00,2950000.00,sim - copa do brasil,41.66
-JOGO_3,30/06/2025,Cruzeiro e CRB,1200000.00,400000.00,1600000.00,sim - copa do brasil,36.29
-JOGO_4,04/05/2025,Cruzeiro vs Flamengo,2550000.00,800000.00,3350000.00,sim - brasileiro serie a,52.19
-JOGO_5,11/08/2025,Cruzeiro vs Flamengo,2900000.00,1000000.00,3900000.00,sim - copa do brasil,51.26
-JOGO_6,22/09/2024,Cruzeiro vs São Paulo,1800000.00,600000.00,2400000.00,sim - brasileiro serie a,42.70
-JOGO_7,05/10/2024,Cruzeiro vs Palmeiras,2100000.00,850000.00,2950000.00,sim - qualificatória da copa libertadores,53.86
-JOGO_8,10/11/2024,Cruzeiro vs Atlético-MG,3100000.00,1100000.00,4200000.00,sim - brasileiro serie a,53.45

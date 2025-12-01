@@ -1,9 +1,0 @@
-jogo_id,times_jogados,data,publico_total,setor_mais_visitado,ticket_medio_ingresso,gasto_medio_torcedor_interno
-JOGO_1,Cruzeiro e Tombense,19/01/2025,16.492,Amarelo,700000.00,33.35,35.00
-JOGO_2,Cruzeiro e Ceará,27/06/2025,52.802,Vermelho,2950000.00,41.66,48.00
-JOGO_3,Cruzeiro e CRB,30/06/2025,33.068,Amarelo,1600000.00,36.29,40.00
-JOGO_4,Cruzeiro vs Flamengo,04/05/2025,48.862 pagantes,amarelo,3350000.00,52.19,50.00
-JOGO_5,Cruzeiro vs Flamengo,11/08/2025,56.579 pagantes,amarelo,3900000.00,51.26,55.00
-JOGO_6,Cruzeiro vs São Paulo,22/09/2024,42.150 pagantes,roxo,2400000.00,42.70,45.00
-JOGO_7,Cruzeiro vs Palmeiras,05/10/2024,38.990 pagantes,vermelho,2950000.00,53.86,60.00
-JOGO_8,Cruzeiro vs Atlético-MG,10/11/2024,58.000 pagantes,amarelo,4200000.00,53.45,60.00
